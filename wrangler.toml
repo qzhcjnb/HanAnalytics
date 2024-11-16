@@ -11,4 +11,4 @@ CLOUDFLARE_API_TOKEN = 'vxme8RTylP_c1gpYy95nUZMhSfQ7eMk4XMAcPGZU'
 # 网站访问密码 (不设置即无需密码访问)
 CLOUDFLARE_WEBSITE_PWD = 'qinzihan54188'
 # 可统计的白名单 格式：  域名,WebSite|域名,WebSite，多个站点使用|分隔 例如：'api.vvhan.com,Hello-Han-Api|www.vvhan.com,Hello-HanHexoBlog'  (不设置即允许任何统计)
-CLOUDFLARE_WEBSITE_WHITELIST = ''
+CLOUDFLARE_WEBSITE_WHITELIST = 'home.qzhcjnb.com,home page|dailyhot.qzhcjnb.com,dailyhot|blog.qzhcjnb.com,blog|blog.qzhcjnb.cn,qzhblog|qzhmusic.qzhcjnb.com,music|ziyuan.qzhcjnb.com,ziyuan|sb.qzhcjnb.com,sbjiami|qzhcjnb.cn,vpn'
